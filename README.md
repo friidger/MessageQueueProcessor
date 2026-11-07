@@ -1,0 +1,5 @@
+the Message Queue Processor is a program that lets you add messages. It automatically assigns the messages categories based on certain words in the message. You can also process messages in the order they were added, oldest first. Every time you quit the program, it saves the processed messages and the new messages you added to the queue. To use the Message Queue Processor, first you need to run the program. Then you have 4 options, Those are:
+1. add - You can add messages to the queue
+2. view - You can view those messages and see their category
+3. process - You can process the oldest message you added by order
+4. quit - Saves the current queue. When you run the program again, those messages are loaded. If you close the program without choosing quit, changes since the last save won’t be saved.
